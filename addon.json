@@ -1,0 +1,11 @@
+{
+  "format": "wmkeyboard-addon",
+  "id": "spanish-accent-dictionary",
+  "name": "Diccionario Completo de Acentos en Español",
+  "version": "1.1.0",
+  "type": "dictionary",
+  "language": "es",
+  "description": "Complemento exhaustivo de corrección y sugerencia automática de tildes y acentos en español para W Keyboard.",
+  "author": "Comunidad Open Source / W Keyboard",
+  "main": "dictionary.txt"
+}
